@@ -13,7 +13,7 @@ function HomeScreen() {
   return (
     <>
       <Head>
-        <title>FAQ - Alura</title>
+        <title>Home - Alura</title>
       </Head>
 
       <Menu />
